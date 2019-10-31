@@ -1,0 +1,7 @@
+com/face/jersei/controller/UserControler.class
+com/face/jersei/model/Login.class
+com/face/jersei/model/User.class
+com/face/jersei/CORSFilter.class
+com/face/jersei/data/UserDAO.class
+com/face/jersei/model/User_.class
+com/face/jersei/data/Connection.class
